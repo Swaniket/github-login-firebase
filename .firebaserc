@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "github-login-firebase-645d6": {
+      "hosting": {
+        "github-login-firebase": [
+          "github-login-firebase-645d6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "github-login-firebase-645d6"
+  }
+}
